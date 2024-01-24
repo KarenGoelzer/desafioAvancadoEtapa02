@@ -1,16 +1,14 @@
 body{
   margin-top: 0;
   margin:auto;
-  padding: 0;
   width: 1092px;
-  height: 720;
+  height: 720px;
 
   background-color:#2C2B3D;
   min-height: 100vh;
 }
 
 .page{
-  width: 1083px;
   padding-top: 71px;
   margin: auto;
 }
@@ -101,7 +99,6 @@ p span{
 }
 
 #padblock{
-  position: fixed;
-  margin-bottom: 20px;
-  margin-left: 20px;
+  bottom: 20px;
+  left: 20px;
 }
